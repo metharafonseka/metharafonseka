@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metharafonseka" alt="metharafonseka" /></a> </p>
 
-- 🔭 I’m currently working on **building projects in ML and Data Analytics.**
+- 🔭 I’m currently working on **improving my skills through data-driven projects.**
 
 - ✨Driven by **curiosity, creativity, and a love for impactful problem-solving.**
 
