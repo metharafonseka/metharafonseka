@@ -9,7 +9,6 @@
 
 - ✨Driven by **curiosity, creativity, and a love for impactful problem-solving.**
 
-
 - 📫 How to reach me **jayasimethara@gmail.com**
 
 - ⚡ Fun fact **Coffee + Code = ❤️**
