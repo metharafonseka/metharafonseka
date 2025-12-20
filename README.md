@@ -21,15 +21,17 @@
 <div align="left">
 
 
+
 <div align="left">
 
-🎓 <strong>Education:</strong> BSc (Hons) in Information Technology specializing in Data Science<br>
-🌏 <strong>Location:</strong> Based in Sri Lanka 🇱🇰<br>
-💡 <strong>Current Focus:</strong> Building innovative data-driven solutions that solve real-world problems<br>
-🔬 <strong>Interests:</strong> Data Science • Machine Learning • Artificial Intelligence • Data Analytics<br>
-🎯 <strong>Mindset:</strong> Turning data into actionable insights through code, curiosity, and continuous learning<br>
-👩‍💻 <strong>Work Ethic:</strong> Analytical thinker with a strong problem-solving mindset and a passion for continuous learning
-
+<ul>
+  <li>🎓 <strong>Education:</strong> BSc (Hons) in Information Technology specializing in Data Science</li>
+  <li>🌏 <strong>Location:</strong> Based in Sri Lanka 🇱🇰</li>
+  <li>💡 <strong>Current Focus:</strong> Building innovative data-driven solutions</li>
+  <li>🔬 <strong>Interests:</strong> Data Science • Machine Learning • AI • Data Analytics</li>
+  <li>🎯 <strong>Mindset:</strong> Turning data into actionable insights with curiosity</li>
+  <li>👩‍💻 <strong>Work Ethic:</strong> Analytical thinker with a strong problem-solving mindset and a passion for continuous learning</li>
+</ul>
 <br clear="right"/>
 </div>
 
