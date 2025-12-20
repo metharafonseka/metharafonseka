@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF33FF,100:00E5FF&height=180&section=header&text=Methara%20Fonseka&fontSize=42&fontColor=fff&fontAlignY=32&desc=&descAlignY=51&descAlign=50"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BCF8&center=true&vCenter=true&random=false&width=600&lines=Data-Driven+Decision+Maker;Problem+Solver;ML/AI+Enthusiast;Aspiring+Data+Scientist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BCF8&center=true&vCenter=true&random=false&width=600&lines=ML/AI+Enthusiast;Aspiring+Data+Scientist;Data-Driven+Decision+Maker;Problem+Solver" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=metharafonseka&label=Profile%20Views&color=38BCF8&style=for-the-badge" alt="Profile views" />
