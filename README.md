@@ -204,6 +204,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF33FF,100:00E5FF&height=100&section=footer"/>
 
 </div>
